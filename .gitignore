@@ -1,0 +1,7 @@
+.idea/
+.cache/
+.pytest_cache/
+*.log
+*__pycache__/
+
+
